@@ -1,5 +1,7 @@
 # BrowserProxy
 
+[![first-timers-only-friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://github.com/lvchenjia/BrowserProxy/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
+
 A lightweight macOS native app that acts as a smart browser router. Intercept link clicks and automatically forward them to the right browser based on running state and power source.
 
 > Have multiple browsers installed but tired of manually switching the default? BrowserProxy solves this.
